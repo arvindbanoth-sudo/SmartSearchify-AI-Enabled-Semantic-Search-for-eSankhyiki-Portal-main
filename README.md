@@ -1,7 +1,5 @@
 # SmartSearchify: AI-Enabled Semantic Search for eSankhyiki Portal
 
-**[GitHub Repository](https://github.com/HARSHA219219/SmartSearchify-AI-Enabled-Semantic-Search-for-eSankhyiki-Portal.git)**
-
 ---
 
 ## Overview
@@ -184,6 +182,4 @@ For licensing details, please contact the repository owner.
 
 ---
 
-**Contact:**  
-Harsha Vardhan Nayak, Computer Science and Engineering-IIT Gandhinagar  
-[GitHub](https://github.com/HARSHA219219)
+
